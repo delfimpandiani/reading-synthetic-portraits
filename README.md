@@ -1,11 +1,10 @@
 # Reading Synthetic Portraits: A Protocol for Critical and Systematic Analysis of Representational Power
 
-This repository accompanies the book chapter:
+This repository provides a reusable, theory-informed protocol for developing systematic analyses of representational power in synthetic portraits, and accompanies the book chapter:
 
 > Martinez Pandiani, D. S., Klein, E., Menebhi, D., & Voorzanger, L.  
 > (2026). *Mapping the Latent Image: Analyzing Representational Power and Harm in Synthetic Portraits.*  
 > In G. de Seta, A. Knuutila, & M. Pohjonen (Eds.), *Synthetic Situations: Ethnographic Methods for Post-Artificial Worlds*. Routledge. Forthcoming.
-and provides a reusable, theory-informed protocol for analysing representational power in synthetic images.
 
 Synthetic portraits shape public visual culture through more than demographic visibility. They organise gaze, posture, gesture, composition, beautification, bodily exposure, atmosphere, cultural legibility, and other visual conditions through which people become recognisable, desirable, vulnerable, ordinary, threatening, or available for scrutiny.
 

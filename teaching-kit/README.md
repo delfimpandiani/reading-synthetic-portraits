@@ -26,18 +26,36 @@ Each exercise produces:
 
 Theory guides attention toward questions of representational power. Images supply the visual evidence, candidate features, and boundaries that make coding possible. The synthetic situation shapes both the images and the claims that can be made about them.
 
+
 ## Citation
 
-If you use or adapt these materials, cite the accompanying chapter:
+Please cite the accompanying chapter when using, discussing, teaching, or adapting the methodological approach developed in this repository.
 
-```
+```bibtex
 @incollection{martinez_pandiani_mapping_2026,
-  author    = {Martinez Pandiani, D. S. and Klein, E. and Menhebi, D. and Voorzanger, L.},
-  title     = {Mapping the Latent Image: Analyzing Representational Power and Harm in Synthetic Portraits},
-  booktitle = {Synthetic Situations: Ethnographic Methods for Post-Artificial Worlds},
-  editor    = {de Seta, Gabriele and Knuutila, Aleksi and Pohjonen, Matti},
+  author    = {Martinez Pandiani, Delfina S. and Klein, Emily and
+               Menebhi, Dalila and Voorzanger, Lux Lemore},
+  title     = {Mapping the Latent Image: Analyzing Representational Power
+               and Harm in Synthetic Portraits},
+  booktitle = {Synthetic Situations: Ethnographic Methods for
+               Post-Artificial Worlds},
+  editor    = {de Seta, Gabriele and Knuutila, Aleksi and
+               Pohjonen, Matti},
   publisher = {Routledge},
   year      = {2026},
   note      = {Forthcoming}
+}
+```
+
+Please also cite this repository when you reuse, adapt, or build on specific repository materials, including:
+
+```bibtex
+@software{martinez_pandiani_reading_2026,
+  author  = {Martinez Pandiani, Delfina S. and Klein, Emily and
+             Menebhi, Dalila and Voorzanger, Lux Lemore},
+  title   = {Reading Synthetic Portraits: A Protocol for Critical and Systematic Analysis of Representational Power},
+  year    = {2026},
+  publisher = {GitHub},
+  url     = {https://github.com/delfimpandiani/reading-synthetic-portraits}
 }
 ```

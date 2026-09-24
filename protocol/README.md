@@ -36,18 +36,36 @@ This protocol does not provide a universal list of harmful visual features or a 
 6. Read `interpretation-and-limits.md` before reporting results.
 
 
+
 ## Citation
 
-If you use or adapt these materials, cite the accompanying chapter:
+Please cite the accompanying chapter when using, discussing, teaching, or adapting the methodological approach developed in this repository.
 
-```
+```bibtex
 @incollection{martinez_pandiani_mapping_2026,
-  author    = {Martinez Pandiani, D. S. and Klein, E. and Menhebi, D. and Voorzanger, L.},
-  title     = {Mapping the Latent Image: Analyzing Representational Power and Harm in Synthetic Portraits},
-  booktitle = {Synthetic Situations: Ethnographic Methods for Post-Artificial Worlds},
-  editor    = {de Seta, Gabriele and Knuutila, Aleksi and Pohjonen, Matti},
+  author    = {Martinez Pandiani, Delfina S. and Klein, Emily and
+               Menebhi, Dalila and Voorzanger, Lux Lemore},
+  title     = {Mapping the Latent Image: Analyzing Representational Power
+               and Harm in Synthetic Portraits},
+  booktitle = {Synthetic Situations: Ethnographic Methods for
+               Post-Artificial Worlds},
+  editor    = {de Seta, Gabriele and Knuutila, Aleksi and
+               Pohjonen, Matti},
   publisher = {Routledge},
   year      = {2026},
   note      = {Forthcoming}
+}
+```
+
+Please also cite this repository when you reuse, adapt, or build on specific repository materials, including:
+
+```bibtex
+@software{martinez_pandiani_reading_2026,
+  author  = {Martinez Pandiani, Delfina S. and Klein, Emily and
+             Menebhi, Dalila and Voorzanger, Lux Lemore},
+  title   = {Reading Synthetic Portraits: A Protocol for Critical and Systematic Analysis of Representational Power},
+  year    = {2026},
+  publisher = {GitHub},
+  url     = {https://github.com/delfimpandiani/reading-synthetic-portraits}
 }
 ```
