@@ -2,13 +2,11 @@
 
 This repository provides a reusable, theory-informed protocol for developing systematic analyses of representational power in synthetic portraits, and accompanies the book chapter:
 
-> Martinez Pandiani, D. S., Klein, E., Menebhi, D., & Voorzanger, L.  
-> (2026). *Mapping the Latent Image: Analyzing Representational Power and Harm in Synthetic Portraits.*  
-> In G. de Seta, A. Knuutila, & M. Pohjonen (Eds.), *Synthetic Situations: Ethnographic Methods for Post-Artificial Worlds*. Routledge. Forthcoming.
+> Martinez Pandiani, D. S., Klein, E., Menebhi, D., & Voorzanger, L. (2026). *Mapping the Latent Image: Analyzing Representational Power and Harm in Synthetic Portraits.* In G. de Seta, A. Knuutila, & M. Pohjonen (Eds.), *Synthetic Situations: Ethnographic Methods for Post-Artificial Worlds*. Routledge. Forthcoming.
 
-Synthetic portraits shape public visual culture through more than demographic visibility. They organise gaze, posture, gesture, composition, beautification, bodily exposure, atmosphere, cultural legibility, and other visual conditions through which people become recognisable, desirable, vulnerable, ordinary, threatening, or available for scrutiny.
+Synthetic portraits shape public visual culture not only through who appears in them, but through how people are made visible. Gaze, pose, gesture, framing, beautification, bodily exposure, atmosphere, and cultural legibility can render subjects desirable, vulnerable, ordinary, threatening, or open to scrutiny.
 
-Existing systematic evaluations of synthetic imagery often examine demographic presence and distribution. Critical visual scholarship offers accounts of style, affect, embodiment, visual hierarchy, and composition. This repository connects these approaches through a practical method for developing and using feature-based codebooks in relation to a specific synthetic situation.
+Systematic analyses of synthetic imagery often focus on demographic presence and distribution, while critical, theory-based visual scholarship examines style, affect, embodiment, composition, and visual hierarchy. This repository brings these approaches together through a practical protocol for developing and using feature-based codebooks within specific synthetic situations.
 
 ## The protocol
 
@@ -31,7 +29,8 @@ Theory guides what becomes visible as a question of representational power. The 
 reading-synthetic-portraits/
 │
 ├── protocol/
-│   Reusable resources for researchers working with any synthetic-image corpus.
+│   Reusable resources for researchers wanting to study a synthetic-image
+|   corpus with theory-informed features.
 │
 ├── ctrl-alt-img/
 │   A completed, situated application of the protocol to ctrl.alt.img,
