@@ -1,6 +1,11 @@
-# Synthetic Portrait Feature-Coding Protocol
+# Reading Synthetic Portraits: A Protocol for Critical and Systematic Analysis of Representational Power
 
-This repository provides a reusable, theory-informed protocol for analysing representational power in synthetic images.
+This repository accompanies the book chapter:
+
+> Martinez Pandiani, D. S., Klein, E., Menebhi, D., & Voorzanger, L.  
+> (2026). *Mapping the Latent Image: Analyzing Representational Power and Harm in Synthetic Portraits.*  
+> In G. de Seta, A. Knuutila, & M. Pohjonen (Eds.), *Synthetic Situations: Ethnographic Methods for Post-Artificial Worlds*. Routledge. Forthcoming.
+and provides a reusable, theory-informed protocol for analysing representational power in synthetic images.
 
 Synthetic portraits shape public visual culture through more than demographic visibility. They organise gaze, posture, gesture, composition, beautification, bodily exposure, atmosphere, cultural legibility, and other visual conditions through which people become recognisable, desirable, vulnerable, ordinary, threatening, or available for scrutiny.
 
@@ -51,22 +56,40 @@ The protocol supports systematic analysis. It does not provide a universal taxon
 
 The full ctrl.alt.img portrait corpus and raw prompts are not distributed through this repository. The installation involved public participation and participant self-description; unrestricted sharing may create contextual-integrity, exposure, and residual-identification risks.
 
+## Acknowledgements
+
+We thank the affect lab and Dr. Natalie Dixon for providing access to ctrl.alt.img data.
+
+
 ## Citation
 
-If you use or adapt these materials, cite the accompanying chapter and describe modifications to the protocol, codebook, theoretical orientation, and corpus documentation.
+Please cite the accompanying chapter when using, discussing, teaching, or adapting the methodological approach developed in this repository.
 
 ```bibtex
 @incollection{martinez_pandiani_mapping_2026,
-  author    = {Martinez Pandiani, D. S. and Klein, E. and Menebhi, D. and Voorzanger, L.},
-  title     = {Mapping the Latent Image: Analyzing Representational Power and Harm in Synthetic Portraits},
-  booktitle = {Synthetic Situations: Ethnographic Methods for Post-Artificial Worlds},
-  editor    = {de Seta, Gabriele and Knuutila, Aleksi and Pohjonen, Matti},
+  author    = {Martinez Pandiani, Delfina S. and Klein, Emily and
+               Menebhi, Dalila and Voorzanger, Lux Lemore},
+  title     = {Mapping the Latent Image: Analyzing Representational Power
+               and Harm in Synthetic Portraits},
+  booktitle = {Synthetic Situations: Ethnographic Methods for
+               Post-Artificial Worlds},
+  editor    = {de Seta, Gabriele and Knuutila, Aleksi and
+               Pohjonen, Matti},
   publisher = {Routledge},
   year      = {2026},
   note      = {Forthcoming}
 }
 ```
 
-## Acknowledgements
+Please also cite this repository when you reuse, adapt, or build on specific repository materials, including:
 
-We thank the affect lab and Dr. Natalie Dixon for providing access to ctrl.alt.img data.
+```bibtex
+@software{martinez_pandiani_reading_2026,
+  author  = {Martinez Pandiani, Delfina S. and Klein, Emily and
+             Menebhi, Dalila and Voorzanger, Lux Lemore},
+  title   = {Reading Synthetic Portraits: A Protocol for Critical and Systematic Analysis of Representational Power},
+  year    = {2026},
+  publisher = {GitHub},
+  url     = {https://github.com/delfimpandiani/reading-synthetic-portraits}
+}
+```
