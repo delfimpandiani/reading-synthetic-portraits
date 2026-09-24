@@ -46,4 +46,17 @@ See `data/data-access-and-ethics.md` for restrictions and guidance concerning th
 
 ## Citation
 
-Use the chapter citation listed in `CITATION.cff`. If you reuse or adapt the protocol, cite the chapter and describe your modifications to the protocol, codebook, theoretical orientation, and corpus documentation.
+If you use or adapt these materials, cite the accompanying chapter. If you reuse or adapt the protocol, cite the chapter and describe your modifications to the protocol, codebook, theoretical orientation, and corpus documentation.
+
+
+```
+@incollection{martinez_pandiani_mapping_2026,
+  author    = {Martinez Pandiani, D. S. and Klein, E. and Menhebi, D. and Voorzanger, L.},
+  title     = {Mapping the Latent Image: Analyzing Representational Power and Harm in Synthetic Portraits},
+  booktitle = {Synthetic Situations: Ethnographic Methods for Post-Artificial Worlds},
+  editor    = {de Seta, Gabriele and Knuutila, Aleksi and Pohjonen, Matti},
+  publisher = {Routledge},
+  year      = {2026},
+  note      = {Forthcoming}
+}
+```

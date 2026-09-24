@@ -1,0 +1,158 @@
+feature_id;cluster;feature_name;visual_definition;example_reference;notes
+ns_0;number of subjects;missing person;A photo where there is no identifiable subject;8a63ea4dc2e0424c8ff836061bcf7df8_with_caption;
+ns_1a;number of subjects;two adults;A photo where two adults are present;0b506285656b434b8085b463115e9fc9_with_caption;Sometimes age is not clearly identifiable.
+ns_1b;number of subjects;adult + one child;A photo where one adult and one child is present;643b60cd5cec42c09e51eb1679e419a6_with_caption;
+ns_2a;number of subjects;three adults;A photo where three adults are present;12e875f41264408a8a363bcbff8df69d_with_caption;
+ns_2b;number of subjects;adult + two children;A photo where one adult and two children are present;9e9a7622bff44aabb3f1237b017a02e4_with_caption;
+ns_3;number of subjects;four adults;A photo where four adults are present;c51113ed638f4d75be3cabcfc7668362_with_caption;
+bg_0;background;non-black color;The background is not predominantly black and solid;4b167bbefc9642609f3f5772d458cdce_with_caption;
+bg_1;background;patterns or shapes;Patterns or shapes are present in the background of the photo;1f22d6d386474b059f9b9d55e69953bb_with_caption;
+bg_2;background;text is present;Text is present in the background of the photo;01f0d51717274ebc9e2482a27c8f1084_with_caption;This includes signs that look like letters but might not be an actual text/language.
+bg_3;background;curtain;A curtain is present in the background of the photo;e891a3e9cf3a41cc83c61a1e44e887f7_with_caption;Curtains were very subtle sometimes, also includes wavy-like structures in the background that are similar to a curtain.
+bg_4;background;photo booth;A space where one can go into to have their photograph taken ;6ce907215b0044acaca0a541cc6343f1_with_caption;"Sometimes the subject might be sitting in somewhat of a ""booth"" space, but it was not always clearly a photo booth. Only includes images in which this was clear."
+bg_5;background;image;There is another image visible in the background;b60a5f9a86fc4605a03d8f4a8084fe85_with_caption;
+lf_0;lighting/filters;photorealistic;A photo with the exactness of a photograph ;85ed21bc3d8a4561bbec22c9e3034a31_with_caption;This one can be difficult as sometimes some part of the image looked photorealistic but others did not. Only includes images in which this was clear.
+lf_1;lighting/filters;animated;A photo made using animation techniques;01f0d51717274ebc9e2482a27c8f1084_with_caption;
+lf_2;lighting/filters;beautification;The subject looks like their appearance was improved;d6911b7c17664d248f1bb358d3bfc14e_with_caption;This one is barely used, because usually it falls more under make-up.
+lf_3;lighting/filters;reflection;A reflection of the subject is visible;6bca15c55f6846ec999761e4afbed4ad_with_caption;Includes both a reflection by another mirror-like object or a stand-alone mirrored representation of the same subject.
+lf_4a;lighting/filters;high saturation;The color of the photo appears more vibrant and intense;6e53ad6e00ac4923a4515cb646667182_with_caption;
+lf_4b;lighting/filters;low saturation;The color of the photo appears less vibrant and intense;23527905beea4a848b0391f237d83bff_with_caption;
+lf_5a;lighting/filters;warm lighting;The color predominantly appears with shades that range from red, orange and yellow to a warm white;1d5c97bb52dc412d9cf32959c640fe86_with_caption;
+lf_5b;lighting/filters;cool lighting;The color predominantly appears with more “blue light”;86778a9260af4b7bbc629d0733039980_with_caption;
+lf_6a;lighting/filters;side lighting;A light that falls on a subject at roughly ninety degrees to the camera;0c48ac1e57514f0b99b66dd055387602_with_caption;It almost always looked like some shadow was falling onto one side of the face, hinting to side lighting. Used in more obvious cases.
+lf_6b;lighting/filters;spotlight;A lamp projecting a beam of light directly on to a subject from above;1b69a26ba0b447bba297387186f29056_with_caption;This is only used if the light was clearly coming from the top, not frontal.
+lf_6c;lighting/filters;bottom lighting;A light that is coming from below the subject ;898c6f04f4e9400d9c3ee7ac36e1d254_with_caption;
+lf_6d;lighting/filters;back lighting;A light that is illuminating the subject from the back;1fde288210954976b881c4c10a730682_with_caption;
+lf_7;lighting/filters;neon light;A light that is bright, glowing, and vibrant in appearance, often in electric hues like red, blue, green;2f2e5eec16834a3c8d9d8c73589ef1ed_with_caption;
+lf_8;lighting/filters;b&w;A photo in black, white, shades of grey, and no other color;0cc120b78da14a40bf83ad61212b785d_with_caption;
+lf_9;lighting/filters;grainy/milky quality;A photo of soft, muted, nostalgic, hazy atmosphere;09928f653c604c74bdab214ac96c8995_with_caption;
+lf_10a;lighting/filters;low exposure;A photo that results in a darker picture, due to a lack of light;3ddc82d22403423daca86da470d0f4e6_with_caption;
+lf_10b;lighting/filters;high exposure;A photo that results in a brighter picture, due to an abundance of light;7033be5e486f4c3ebb6f37fab31546f5_with_caption;
+af_0;angle/framing;tilted;A photo where the camera axis is slightly tilted away from the vertical;8284fcab36d84587a931e151cad14fe5_with_caption;Does not count if the subject themselves is tilting their head or body, it should be the axis of the camera.
+af_1;angle/framing;selfie;A photo that looks like it was taken by the subject themselves        ;0b685f8555d3431c9c89794d3781f3f9_with_caption;If someone is close-up because it is taken as a selfie, it is labeled only as selfie.
+af_2a;angle/framing;close-up;A photo of the subject at close range;0bb2f6e1905f48428214e044cc2a7102_with_caption;Does not include selfies. The face should be clearly enlarged, should not include torso, can include neck.
+af_2b;angle/framing;zoomed out;The subject is fully visible and seems further away ;2585a05be71f4609bfa1ab3421e55199_ittgwo_with_caption;The subject appears small and further away from the camera. Full-body ≠ zoomed-out.
+af_3a;angle/framing;body cut off;A part of the subject's body is cropped out of the frame;0c797f39b3fa4ccba8626993019bb4d7_with_caption;"Only count it as ""body cut off"" if the body is cropped out vertically in the image. If the body is missing because of the original framing — for example, taken in a photobooth that doesn’t show the full body, or a selfie where part of the body is out of frame due to the camera angle — it does not count as cropped off."
+af_3b;angle/framing;face cut off;The face is partially or completely missing from the image, by being cropped out of the frame;0b8bd069361d42038e697959a271f079_with_caption;Only includes the face being cut off, starting either vertically or horizontally from the eyebrows (top) or lips (bottom), does not include solely part of e.g. forehead or chin. Thus does not include overall 'head' without part of the face being cut off
+af_4;angle/framing;side profile;A photo that depicts the subject's face partially or fully from the side;01b039b4019e4c6f9d1e2429b3207abf_with_caption;Counts as side profile if the contours of the nose are shown clearly by being positioned (slightly) sideways
+af_5;angle/framing;portrait;A photo that is focusing on the face and expression of the subject;1e2a8153ee55499db85c6d1cf62ee403_with_caption;Includes full head and torso, including chest, not including waist. Subject should be facing the camera.
+af_6;angle/framing;full-body;Skin that is pulled, twisted out of its original shape;2becf056047641bf8c227174584bc559_with_caption;Should include the full-body, although parts of the feet can be slightly cropped off, as long as the body is roughly 95% in frame.
+af_7;angle/framing;morphed into object;The subject is morphing into another object;0ee61ce928d94ee9b35785ef053520f3_with_caption;The subject is either morphed as stuck in an object, or their body parts fade into the object by color / shape.
+pp_0;posture/pose;fetal position;A body position in which the knees are to the chest, and arms are wrapped around the knees;5704e52ffc8040b399ba308a5f3f723f_with_caption;
+pp_1;posture/pose;in motion;A body that appears to be moving while the photo is taken;728d2c87f12d4025b407318af155027f_with_caption;Images with arms raised often appear to be in motion.
+pp_2;posture/pose;open facing;An unconscious body posture, typically with the arms and legs uncrossed;5b89d6117a3942d9a7daf2a4174f6bd2_with_caption;
+pp_3;posture/pose;minimizing;A body posture in which the subject makes themselves smaller;1f22d6d386474b059f9b9d55e69953bb_with_caption;Difficult to code alongside hunched (as in difficult to decide which of the two applied, or both)
+pp_4;posture/pose;crotch shot;A photo in which the legs are uncrossed and open, where the centre of the image is the crotch ;0b8bd069361d42038e697959a271f079_with_caption;
+pp_5;posture/pose;cross-legged;A body posture with the legs closed and crossed over one another;e4f3807d683a477c9f3d28dbfa7a7845_with_caption;Includes both 'kleermakerszit' and crossing one leg over the other
+pp_6;posture/pose;upright;A confident body posture with a straight back and shoulders back;0c47bed74c5a4134804da4cd087a0c35_with_caption;
+pp_7;posture/pose;slouched;A posture in which the subject is sitting in a drooping way;0ba7dd63f7b04fbc8e0da4ac9491473d_with_caption;Usually laid back into the chair/object they appear to be sitting on 
+pp_8;posture/pose;submissive;Putting the body in a lower, more guarded position;0cef84baaac4431ca2ca307389691e2a_with_caption;
+pp_9;posture/pose;head tilted;A body where the neck is leaning to one side;1d9c6678d1ae4d77bcdb8efbf32ac897(1)_with_caption;
+pp_10;posture/pose;suggestive;Open body language that appears to invite sexual activity;2be05867fd714bfea96603bf8ba09128_with_caption;Mostly images taken from above with subject looking up, and arms/hands close to the face or supporting the face (holding it up)
+pp_11;posture/pose;physical touch;A photo where two or more people are physically touching each other;6dbd231d3b08439d8f20223c8b61ca3c_with_caption;
+pp_12;posture/pose;hunched;A body posture in which the shoulders are raised and the torso is bent forward ;0fbaa332086e4a29b2ef80d4efeaae95_with_caption;
+fs_0;fashion/clothing;see-through clothing;Attire which is transparent and/or sheer;dc238380b7bd471fa1f568187adde660_with_caption;
+fs_1;fashion/clothing;cultural expression ;Attire that is related to a specific cultural background, or which holds specific cultural significance ;0deb04c65d54445eb15842940f22a4fd_with_caption;Includes mostly hijabs.
+fs_2;fashion/clothing;patterned clothing;Attire on which there is a repeated decorative design;c5dcfda92eec431d991b5bde9d0e9cfa_with_caption;
+fs_3;fashion/clothing;formal attire;Attire for an official, important occasion;124019170f5c483da41ee59f6fa0a125_with_caption;
+fs_4;fashion/clothing;face paint;Bold, coloured paint to decorate the face;33727d022ccd4d15b41fa4967152495e_with_caption;
+fs_5;fashion/clothing;barefoot;Lacking foot attire, no socks and shoes;2635d3a42c4243e38e751942da8dbd8a_with_caption;Barefoot images often with the feet being showcased, usually an emphasized feature of the image
+fs_6;fashion/clothing;skin showing;Attire which is revealing of the skin;3f17d22354794c3088b42547526e6487_with_caption;
+fs_7;fashion/clothing;non-mainstream clothing;Attire which is not the 'norm', and is alternative instead;018a1523d5254c87954ffc16e50ff8ab_with_caption.png;
+fs_8;fashion/clothing;uniform;Distinctive clothing worn by members of the same organization, profession, or school children ;0e7bfcef19c549d8b1b6641aae52e08e_with_caption;Includes waiters and doctors.
+fs_9;fashion/clothing;graphic clothing;Attire that has an image or custom design printed on it ;0b7cafd986d44c20add0ab0c82a4dd2a_with_caption;
+fs_10;fashion/clothing;androgynous clothing;A combination of masculine and feminine characteristics in clothing - unisex;4d71ae5a7dc54b6cb20402eb8665ad88_with_caption;
+fs_11a;fashion/clothing;nail polish;Paint for finger- and toe-nails;5b304525c6cc464eaf1b4a4c2bb343be_with_caption;Only tagged when obvious, as many of the hands are distorted.
+fs_11b;fashion/clothing;scarf;Attire to wrap around one's neck, for warmth and style;a5f5410d9ce144f2b7ba00c3cb5c40ac_with_caption;
+fs_11c;fashion/clothing;jewelry;Personal ornaments often made of metal that accessorize an outfit;0a4c8707ecab49c6b87309778db35495_with_caption;Includes necklaces, bracelets, earrings, rings. Does not include piercings.
+fs_11d;fashion/clothing;tattoos;A form of body modification where tattoo ink (or dye/pigment) is punctured into the skin to make a (decorative) design;0e9c5eed18894571847ee895642803ba_with_caption;
+fs_11e;fashion/clothing;make-up;Cosmetics which are applied to the face to enhance or alter the appearance ;2bb80f3b690e485a8147b8fbc42d2c3f_with_caption;
+fs_11f;fashion/clothing;head accessory ;Decorative objects which can be worn on the head or in the hair;6f3066733cd74dc093d74b27fb277176_with_caption;Includes mostly hats and caps, sometimes headbands
+fs_11g;fashion/clothing;gloves;Attire to keep the hands covered and warm;d8e74eb5405b4fbaacc1e65cb776601a_with_caption;Does not include boxing gloves
+fs_12a;fashion/clothing;glasses;A pair of lenses set in a frame resting on the nose and ears;0b7cafd986d44c20add0ab0c82a4dd2a_with_caption;
+fs_12b;fashion/clothing;sunglasses;Tinted glasses to protect the eyes from sunlight or glare;1edcffad2118463bb7d8a562bd6aac4d_with_caption;
+fs_13;fashion/clothing;ripped jeans;Jean trousers which have tears in them;0cb99a8a6f55417ab4e09f0b361c7776_with_caption.png;
+hr_0;hair;body;Hair grown on the body, usually on the arms and legs ;6d3107c604a440a5ad2014ee898e03c4_with_caption;
+hr_1;hair;facial;Hair grown on the face, usually on the chin, cheeks, and upper lip area;1a33b20964dd4ac491a03ca9fb698657_with_caption;Mostly men, mostly beards.
+hr_2a;hair;alternative;A broad and eclectic category of haircuts and styles that break away from mainstream trends;018a1523d5254c87954ffc16e50ff8ab_with_caption;Includes bangs, especially sharp bangs like the example given.
+hr_2b;hair;braided;A complex structure or pattern woven into the hair;9a729335a554451186b351fe5f88b0ce_with_caption;
+hr_2c;hair;dread locks;A hairstyle made of rope-like strands of hair;5e47bb8876184b13891204b7b74d45a9_with_caption;
+hr_2d;hair;colored;Hair which has been dyed an unnatural colour;3c8d39a5e29f43e9833e6c7b5b604e38_with_caption;Includes platinum blonde, pink, green, blue, and purple. Not balayage.
+hr_2e;hair;curly;A hair type characterized by a springy, corkscrew-type texture;1fd3192029354ed7a6b2dfc573e25d49_with_caption;
+hn_0a;hands;fist;The fingers are curled inward and the thumb rests against or around them, forming a closed shape;f8280dd980cb4c7bb77dd14fbc85a0e5_with_caption;
+hn_0b;hands;hand sign;A specific positioning of the fingers/hand used to convey a symbol, gesture, or meaning;8a8616fe9b5f4db9a019bbcd4ab6e72c_with_caption;The depicted symbol include a specific concept or idea, such as victory, peace, 'rock out', or similar.
+hn_0c;hands;finger pointing;Extending one finger in a specific direction to point at a particular object or thing;2c115ca1096b4ddd9fea3ea4a9df888d_with_caption;Clear to convey a specific action or indication.
+hn_0d;hands;waving;A gesture/greeting with one hand raised and fingers spread open, with the palm facing outward;1e23a58b0aab40aabc99743c69a5bab0_ittgwo_with_caption;Often includes eye contact from the subject, perhaps resembling a direct greeting to the camera, typical of real photographs.
+hn_1;hands;hands held together;Two hands from the same subject touching or intertwined;836ae7515de34226b5ffd6067a07e765_with_caption;It includes highly deformed hands but whose arms converge in the same direction recalling the gesture.
+hn_2a;hands;hands close to face;One or both hands positioned near to/touching the face;0d70511c22bf45058edb14092a5143d9_with_caption;The hands should visibly interact with the face, either through a touch of fingers or the full contact of the entire hand.
+hn_2b;hands;hands on head;A posture where both hands are placed on top of the head/hair;3cd36c3b9cf14f95a1dca518f77a6ad1_with_caption;The hands are visibly positioned on the head.
+hn_3;hands;hands tied;The hands are bound together with a restraint around the wrists;0cef84baaac4431ca2ca307389691e2a_with_caption;Where present, the object to be handcuffed must be clear and visible.
+hn_4;hands;people holding hands;A gesture where two people grasp each other's hands, intertwining them;4aa4f7bb3a8844b2b87c75b3ce8fcf2f_ittgwo_with_caption;
+hn_5;hands;distorted hands;The hands appear misshapen, disproportionate, or anatomically incorrect;1b69a26ba0b447bba297387186f29056_with_caption.png;"Contains minor distortions; during annotation, zooming was often utilized to detect and analyze imperfection."
+pa_0;props/attributes;ladder;An object for reaching high surfaces;daa50fbbefaf45928aa305440946e4da_with_caption;
+pa_1;props/attributes;flame;The visible, glowing part of a fire;c87fbee2deda4018aa0beef3bb2a5c0b_with_caption;
+pa_2;props/attributes;box;A rectangular object that can contain other items;adc7633017734c24aa99a1090f750149_with_caption;Can relate to a small box, or even a large box that the subject is sitting in, which is clearly not a booth or chair.
+pa_3;props/attributes;brand/logo;A symbol that represents an existing company;ba4669cbafcb4e02b5ad2beb2e0f797d_with_caption;Only should be tagged if the brand is existent.
+pa_4;props/attributes;bag;An object that can be worn to carry other small items;80584d0260a44407a86d9fe5b92ef2aa_with_caption;Includes handbag, backpack, clutch, purse, shopper, etc.
+pa_5;props/attributes;suitcase;A container with handles or grips that is used for traveling;7160c815bf574310a04634f68a6f9d69_with_caption;Also includes e.g. a suitcase for work purposes.
+pa_6a;props/attributes;basketball;A round orange object that is used in sport;5502c0871a444869819e0db5a814d5f7_with_caption;Could also include (sports) ball in the broadest sense.
+pa_6b;props/attributes;bike;A two wheeled vehicle used for transport;4062a9bd358e4750badaa07499e42f1d_ittgwo_with_caption;Includes also (non-electric) (kids) scooter or step.
+pa_6c;props/attributes;skateboard;A short narrow board with four wheels, on which a subject can ride;9e452302c3e34048a50e901e1fbb782e_with_caption;Also includes pennyboard or snowboard.
+pa_6d;props/attributes;hula hoop;A circular object, that can rotate around the body;7e727c60b9f04e6d94206fb36a978b2c_with_caption;Should be annotated as hula hoop if there is clearly a circular shaped tube present in the image, even it's not fully visible.
+pa_6e;props/attributes;boxing gloves;Protective gloves used during boxing training and fights;5e47bb8876184b13891204b7b74d45a9_with_caption;Does not include other sorts of gloves.
+pa_7;props/attributes;book;A set of printed that contain information;2b0dda7c497b46ec8ec05afc0d4723d5_ittgwo_with_caption;If the book does not have a hard cover it is still considered a book, even if its a stack of printed pages.
+pa_8;props/attributes;musical instruments;An object for producing musical sounds;5c1d4a54c0a34f31912f9699acbcc46e_with_caption;Includes e.g., (electric) guitar, piano, cello, keyboard, etc.
+pa_9;props/attributes;symbol;A thing that represents or stands for something else;7c5af7bbb8ef4a42b329f51a961cd3c7_with_caption;Covers the representation of latent symbolism, e.g. a heart, but not a symbol as in hand signs.
+pa_10;props/attributes;sign;A plaque that conveys information, meaning, or direction;2d1299161e28453197d4d9000b4891af_with_caption;Should be tagged if the sign does not contain text but is still a sheet or plaque held up by the subject in the image.
+pa_11a;props/attributes;knife;A blade fixed into a handle, used for cutting;58da038c3f8d4417af475da7d8805c52_ittgwo_with_caption;Can be any sort of knife regardless of its size. Would also include other blade-like objects, such as a sword.
+pa_11b;props/attributes;cooking pot;A deep, round container with handles used for cooking;2229d77e21bb4b0d814ddf492f642bc9_ittgwo_with_caption;Can be either worn by the subject in the image (e.g. on their head), or placed on top of a surface.
+pa_11c;props/attributes;drink;A liquid substance consumed for hydration, nourishment, or enjoyment;9c464ee756074211b568d94c0fe3735a_with_caption;Pertains to the container that a drink is held in, does not clearly have to contain the drink to be annotated as 'drink'.
+pa_11d;props/attributes;food;A substance consumed for nourishment;4d782540985740199b13517e889341f0_ittgwo_with_caption;
+pa_12;props/attributes;image of a person;A photograph of a subject other than the one originally pictured;1a33b20964dd4ac491a03ca9fb698657_with_caption;Should either be a printed or digital image of another subject which is clearly not present in the photo booth with the main subject.
+pa_13a;props/attributes;computer;An electronic device equipped with a keyboard, either a desktop or laptop ;861f1dee7d034b7cb12248eec758b6c7(1)_with_caption;
+pa_13b;props/attributes;microphone;A device for recording and amplifying sound;22b55a58f2464e6c828b7948baf90360_with_caption;Can be either a stand-alone microphone or attached to a headset.
+pa_13c;props/attributes;camera;An object capable of photographing;5b304525c6cc464eaf1b4a4c2bb343be_with_caption;Only includes non-phones, if a picture is taken with a phone it should be labeled as phone, not camera. So digital or professional photo cameras only.
+pa_13d;props/attributes;headphones;A wearable audio and recording device;1ec0acd3f0754e2aa82b1dcd0a381ccd_with_caption;Includes headphones and (wireless) earbuds.
+pa_13e;props/attributes;phone;An electronic device with which to contact others;1a562c236d2c4fc8bc4248781a3d1cd3_with_caption;Includes both modern (smart) and retro representations of a phone.
+pa_13f;props/attributes;tablet;A portable electronic device, combines functions of a computer and a smartphone;0b1d1b09637d4b4bb333d735342b723c_with_caption;Phone but represented larger, should not contain a keyboard but a clear screen at least.
+pa_14;props/attributes;net;A woven structure made of interconnected threads;42ed64fe810244ec8a09bdc7017b9d75_with_caption;If this pattern is e.g. woven into a chair, it should still be separately tagged as net.
+pa_15;props/attributes;table;A flat, horizontal surface supported by legs;34a9bfcb80b040adbf2b01c939a60c10_with_caption;Legs can be cut out of the image to be annotated as table, if there's a flat surface with items placed on top, we assume it's a table.
+pa_16;props/attributes;hay;Yellowish dried grass, often comes in barrels;12e875f41264408a8a363bcbff8df69d_with_caption;
+pa_17;props/attributes;cigarette;A thin, cylindrical roll of finely cut tobacco for smoking;7f6e91cae14d4105ad8386ead8895603_with_caption;
+pa_18;props/attributes;letter;A piece of text written on paper, potentially enclosed in an envelope;6e74e5aaba5e4b0ca07258a26b7f9453_with_caption;Also includes solely the envelope without the presence of the letter.
+pa_19;props/attributes;religious expressions;An object or symbol that holds specific religious significance;a6fc98f9bed34e66bc7c8fd53492e513_with_caption;Does not include religious or cultural attire, only separate symbolism.
+pa_20;props/attributes;ID-card;An official document for identification;4a7e2b60153a4d1aa331a73552c15fdb_with_caption;
+pa_21a;props/attributes;bench;A long, sturdy seat;3c8068803de54fee96a6d8b4b4bdd0b0_with_caption;Should not have a backrest.
+pa_21b;props/attributes;bed;A piece of furniture used for sleeping or resting;2c115ca1096b4ddd9fea3ea4a9df888d_with_caption;Should clearly have e.g. sheets, case or pillow.
+pa_21c;props/attributes;chair;A piece of furniture for sitting;0a4c8707ecab49c6b87309778db35495_with_caption;Takes chair in the broadest sense, includes couch, sofa, chair, stool, pouf, lounge chair, rocking chair. Does not include bench or bed.
+pa_22;props/attributes;frame in frame;An image or a structural border within another;0f36842d844c4293a5c6c6a60d455417_with_caption;Can be a picture or mirror frame, or just an item which is frame-shaped.
+pa_23;props/attributes;blood;A red fluid that circulates within the human body;9021f01aa71b4b2c9d7e0a6addda66d7_with_caption;
+pa_24;props/attributes;unidentifiable object ;An object which is unclear to the naked eye;0bea9ec5ab8547f1b38d0c01930b780d_with_caption;Includes any object which is clearly present in the images but too ambigiuous to assume.
+pa_25;props/attributes;animal;A living organism belonging to the animal kingdom;2e3909776d8e4611a6f8b5d661b9d762_ittgwo_with_caption;Includes an inanimate animal (e.g. plushie, toy)
+pa_26;props/attributes;helmet;A protective device worn on the head;0ac39f79543c4a50a27c7d85341783e6_with_caption;Includes sports and astronaut helmet.
+pa_27;props/attributes;gun;A firearm;0f989807e3234af4a11b582c3acbd469_with_caption;
+pa_28;props/attributes;watch;An accessory for the wrist to tell the time;0cc120b78da14a40bf83ad61212b785d_with_caption;If based on color and thickness of the band it is similar to a watch, it is safe to tag it as watch, even if the clock is not as evident.
+bt_0;body types;non-identifiable gender;Does not include eyes. Although the face is clearly deformed, it is possible to argue that the subject represents human features. It includes significant deformations, yet the face still retains anthropomorphic characteristics;3b25b37cea3c42a799d127f7e6abe03d_with_caption;
+bt_1;body types;adiposity;The state of being heavier-set, above average weight;1a33b20964dd4ac491a03ca9fb698657_with_caption;
+bt_2;body types;skinny;The state of being thinner-set, below average weight;2db7073777b84e4caea50b5e54bcd37f_with_caption;
+bt_3;body types;muscular;Having well-developed, well-defined muscles;3e5d756ee8e24ae2a0514b9a75d7a961_with_caption;
+bt_4;body types;sagging skin;Loose skin that has little to no definition;65a05c676ba14874a2528d8a29281fbc_with_caption;
+bt_5;body types;wound/scar ;A mark on the body showing the natural healing and replacing of lost skin;5c1d4a54c0a34f31912f9699acbcc46e_with_caption;
+bt_6a;body types;distorted skin;Skin that is pulled, twisted out of its original shape;8d424773d6eb4ccb9a2aa21102c0d0a3_with_caption;Includes only deformed skin.
+bt_6b;body types;distorted body;A body that is pulled, twisted out of its original shape;2a0006715a3348f2bd6b392cbbd6cd08_ittgwo_with_caption;Deformation of body parts only is noted. 
+eg_0a;eyes/gaze;downcast eyes;The eyes are directed downward, not making eye contact with the camera;1a562c236d2c4fc8bc4248781a3d1cd3_with_caption;
+eg_0b;eyes/gaze;looking to the side;The eyes are turned to the side, and the gaze directed clearly away from the camera;0fbaa332086e4a29b2ef80d4efeaae95_with_caption;
+eg_0c;eyes/gaze;looking up;The eyes are directed upward, with the gaze clearly focused above the horizontal line of sight;3f208b86781e4c948ceaf29874a22b08_with_caption;Subject must clearly look above themselves.
+eg_1;eyes/gaze;eye contact;The eyes are pointed directly at the camera, with the gaze clearly focused on the viewer;2b0dda7c497b46ec8ec05afc0d4723d5_ittgwo_with_caption;The recreated images resemble a photobooth, where, whenever possible, the AI replicates the appearance of a subject as if photographed inside such devices
+eg_2;eyes/gaze;eyes distorted;One or both eyes appear abnormal or altered in shape, size, or position, such as being stretched, widened, or exaggerated;1c21ed17595141cc8b3dce8ff45392a2_with_caption;Include minor distortions, as they may appear significant when examined under zoom
+eg_3;eyes/gaze;eyes closed;The eyelids are fully shut, covering the eyes with no visible openings;78c04cbd829943cab88e31afff1c7b85_with_caption;
+fa_0a;face;uninterpretable;The face is so distorted or abstracted that it no longer resembles a recognizable human face;0e9c5eed18894571847ee895642803ba_with_caption;Includes highly deformed faces, the malformations are so prevalent that nothing of the face is recognizable.
+fa_0b;face;distorted face;The face where features such as the nose, mouth, and cheeks are altered, stretched or exaggerated in shape or proportion;0deb04c65d54445eb15842940f22a4fd_with_caption;Does not include eyes. Although the face is clearly deformed, it is possible to argue that the character represents human features. It includes significant deformations, yet the face still retains anthropomorphic characteristics
+fa_1a;face;covering face;The hands are placed in front of face, either partially or fully hiding it;0789f3fab0534165b77c55fbc2688533_with_caption;The face or the mouth should be barely noticeable.
+fa_1b;face;mouth covered;The mouth is obscured or restrained by an object, such as tape, cloth, or another material, preventing it from being visible;3a27ced13c974370a7691d450d4c93cc_with_caption;
+fa_2a;face;smiling with teeth;A facial expression where the mouth is open, showing visible teeth as part of the smile;2c297c1a24014f0e87246da1f759a4d3_with_caption;
+fa_2b;face;smiling without teeth;A facial expression where the mouth is curved upward in a smile, but the teeth are not visible;0c47bed74c5a4134804da4cd087a0c35_with_caption.png;
+fa_3;face;big forehead;The forehead that appears larger than typical, often in proportion to the rest of the face;0b1d1b09637d4b4bb333d735342b723c_with_caption;Includes enlargement that is pronounced and clearly visible.
+fa_4;face;duckface;A facial expression where the lips are pursed and pushed outward;2d029a7f07774056b621b9f5d54c1040_with_caption;
+ea_0;emotion/affect;happy;The subject depicted in the photo seems to express positive emotions;1da807c6ebc04aceaa53730a5c4a32c4_with_caption;
+ea_1;emotion/affect;sad;The subject depicted in the photo seems to express negative emotions;1e2a8153ee55499db85c6d1cf62ee403_with_caption;
