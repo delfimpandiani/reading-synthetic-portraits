@@ -7,26 +7,6 @@ This protocol supports systematic analysis of aesthetic, affective, bodily, comp
 
 
 
-```mermaid
-flowchart LR
-    s1["1. Synthetic situation"] --> s2["2. Theoretical orientation"]
-    s2 --> s3["3. Corpus inspection"]
-    s3 --> s4["4. Seed features"]
-    s4 --> s5["5. Collaborative codebook"]
-    s5 --> s6["6. Pilot and revision"]
-    s6 --> s7["7. Descriptive analysis"]
-    s7 --> s8["8. Situated interpretation"]
-```
-1. Synthetic situation: document the model, interface, prompts, participants, categories, setting, and unknowns.
-2. Theoretical orientation: identify concepts that guide attention toward representational power.
-3. Corpus inspection: record recurring visible patterns before creating fixed categories.
-4. Seed features: develop provisional features with observable visual bases.
-5. Collaborative codebook: define, compare, merge, split, revise, retain, or remove features.
-6. Pilot and revision: test the codebook on a new sample and document ambiguity.
-7. Descriptive analysis: examine occurrence, accumulation, co-occurrence, and contextualised metadata patterns.
-8. Situated interpretation: connect visual patterns to theory and the full image-production arrangement.
-
-
 
 ## Stage 1: Situate the synthetic-image system
 
@@ -247,3 +227,23 @@ Limit claims to the sociotechnical conditions that produced the corpus.
 A limitations statement and an explicit account of what can and cannot be claimed.
 
 ---
+
+
+```mermaid
+flowchart LR
+    s1["1. Synthetic situation"] --> s2["2. Theoretical orientation"]
+    s2 --> s3["3. Corpus inspection"]
+    s3 --> s4["4. Seed features"]
+    s4 --> s5["5. Collaborative codebook"]
+    s5 --> s6["6. Pilot and revision"]
+    s6 --> s7["7. Descriptive analysis"]
+    s7 --> s8["8. Situated interpretation"]
+```
+1. Synthetic situation: document the model, interface, prompts, participants, categories, setting, and unknowns.
+2. Theoretical orientation: identify concepts that guide attention toward representational power.
+3. Corpus inspection: record recurring visible patterns before creating fixed categories.
+4. Seed features: develop provisional features with observable visual bases.
+5. Collaborative codebook: define, compare, merge, split, revise, retain, or remove features.
+6. Pilot and revision: test the codebook on a new sample and document ambiguity.
+7. Descriptive analysis: examine occurrence, accumulation, co-occurrence, and contextualised metadata patterns.
+8. Situated interpretation: connect visual patterns to theory and the full image-production arrangement.

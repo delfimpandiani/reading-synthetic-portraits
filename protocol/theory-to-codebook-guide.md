@@ -1,10 +1,8 @@
 # From Theory to Codebook
 
-## The core methodological move
-
 Critical theory can guide visual analysis without becoming a fixed checklist. Feminist, postcolonial, affect, queer, decolonial, disability, critical race, and related traditions provide concepts that sensitise researchers to questions of representational power. They may direct attention toward othering, racialised embodiment, gender display, objectification, visual hierarchy, affect, legibility, normativity, surveillance, or visibility.
 
-The images still determine which features can be described, distinguished, and consistently coded.
+The image production pipeline still determines which features can be described, distinguished, and consistently coded.
 
 ## Three levels to keep distinct
 
