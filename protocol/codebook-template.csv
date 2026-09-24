@@ -1,0 +1,22 @@
+```csv
+feature_id,cluster,feature_name,visual_definition,inclusion_criteria,exclusion_criteria,borderline_cases,feature_type,theoretical_connections,example_reference,status,revision_notes
+```
+
+### Column guidance
+
+| Column | Use |
+|---|---|
+| `feature_id` | Stable identifier, such as `BODY_001` |
+| `cluster` | Theme or macro-theme |
+| `feature_name` | Short descriptive label |
+| `visual_definition` | What is visibly present |
+| `inclusion_criteria` | Conditions for coding the feature as present |
+| `exclusion_criteria` | Similar cases that do not count |
+| `borderline_cases` | Ambiguous cases and handling guidance |
+| `feature_type` | Strong, weak, or another documented category |
+| `theoretical_connections` | Relevant concepts and citations; interpretive context only |
+| `example_reference` | Cleared image ID or other example reference |
+| `status` | Provisional, active, revised, deprecated, or removed |
+| `revision_notes` | Changes and reasons |
+
+---
