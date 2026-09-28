@@ -57,7 +57,7 @@ The closing clause, “sitting in a photo booth with a black background,” prov
 
 An example prompt from the corpus is:
 
-> “A photo of a white man who is 29 years old who is also a italian, handsome, bearded, big nosed, normcore sitting in a photo booth with a black background.”
+> "A photo of a asian woman who is 31 years old who is also a korean, researcher, vegeterian, sitting in a photo booth with a black background."
 
 ## Which user-provided text or image inputs are involved?
 
